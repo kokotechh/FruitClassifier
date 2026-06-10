@@ -1,9 +1,6 @@
 # 🍎 Fruit Classifier — Deep Learning Project
 ---
 
-
-A deep learning project that classifies 10 types of fruits using CNNs and Transfer Learning!
-Built while studying Chapter 14 of *Hands-On Machine Learning* by Aurélien Géron 📖✨
 the dataset is from: https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class
 ---
 
